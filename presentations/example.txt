@@ -1,0 +1,33 @@
+
+## This is the first slide ##
+
+  - Type some [Markdown] text on the left side.
+  - See the corresponding HTML on the right.
+
+    `This is CODE
+    var x = x$('element').html(...)`
+
+For a Markdown cheat-sheet, switch the right-hand window from *Preview* to *Syntax Guide*.
+
+  
+
+=== 
+
+## This is the Second slide ##
+
+  - Type some [Markdown] text on the left side.
+  - See the corresponding HTML on the right.
+
+For a Markdown cheat-sheet, switch the right-hand window from *Preview* to *Syntax Guide*.
+
+
+===
+
+# NEW SLIDE #
+
+  - Type some [Markdown] text on the left side.
+  - See the corresponding HTML on the right.
+
+  
+  
+For a Markdown cheat-sheet, switch the right-hand window from *Preview* to *Syntax Guide*.

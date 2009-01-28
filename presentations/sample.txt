@@ -1,0 +1,8 @@
+
+## Welcome to JS Presentation ##
+
+  Hit the url with ?presentation.txt to load and run your presentation - THATS IT
+  
+  The presentations are created using markdown
+  
+  [Example.txt](?example.txt)

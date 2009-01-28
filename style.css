@@ -1,0 +1,114 @@
+body {
+  border:none;
+  margin:0;
+  padding:0;
+  background:#000;
+}
+
+#container {
+	position:absolute;
+}
+ 
+a {
+  text-decoration:none;
+}
+a:hover {
+  text-decoration:underline;
+}
+ 
+#container div.slide {
+  border-top:20px solid #000;
+  display:block;
+  width:800px;
+  height:600px;
+  background:#fff;
+  margin:0 292px 200px;
+  padding:20px;
+}
+
+
+/* Mini Slides */
+#nav div.slide {
+  padding:4px;
+  display:block;
+  width:186px;
+  height:150px;
+  background:#fff;
+}
+#nav div.slide p, #nav div.slide li  {
+  font-size:6px;
+}	 
+
+#nav div.slide ul li {
+  font-size:7px;
+  background-color:#fff;
+  padding:0px;
+  margin:0px;
+  line-height:1;
+}
+
+#nav div.slide ul {
+  list-style:disc;
+}
+ 
+#nav div.slide code  {
+	
+}
+ 
+a img {
+  border:none;
+}
+ 
+hr {
+  border:1px solid #ccc;
+}
+ 
+ 
+.clear {
+  
+}
+ 
+div#nav {
+  position:fixed;
+  background:#fff;
+  padding:20px;
+  margin:20px;
+}
+
+div#nav h1 {
+  font-size:11px;
+} 
+div#nav h2 {
+  font-size:10px;
+}
+div#nav h3,div#nav h4,div#nav h5,div#nav h6 {
+  font-size:9px;
+}
+
+div#nav ul {
+  margin:0;
+  padding:0;
+  list-style:none;
+}
+
+div#nav ul .slide ul {
+  margin:5px;
+  margin-left:12px;
+  padding:6px;
+  
+}
+ 
+div#nav ul li {
+  padding:5px 5px 5px 5px;
+  background:#eaeaea;
+  margin:0 0 1px 0;
+}
+
+div#nav ul li.highlight {
+  background:#ffffcc;
+}
+ 
+div#nav ul li a:hover {
+  text-decoration:none;
+}
+ 
